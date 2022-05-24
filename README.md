@@ -13,3 +13,7 @@ This system combine PyQt5, SQL, Backend Server
 ![brian 2022-05-25 上午2 26 39](https://user-images.githubusercontent.com/86283442/170106389-8806513f-6796-440c-a5fa-a93dfb2a325a.png)
 
 ![brian 2022-05-25 上午2 26 45](https://user-images.githubusercontent.com/86283442/170106396-a852592c-b795-4caf-8590-0e392ead44dc.png)
+
+![brian 2022-05-25 上午2 31 21](https://user-images.githubusercontent.com/86283442/170107215-ec808b87-14a7-4e30-83ef-5f3e6be98687.png)
+
+![brian 2022-05-25 上午2 31 52](https://user-images.githubusercontent.com/86283442/170107233-b6585ed0-d811-41d9-975f-5dc5a272bdc3.png)
