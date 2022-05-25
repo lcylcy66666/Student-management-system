@@ -3,8 +3,14 @@ Use pyqt5 + server + SQL
 
 This system combine PyQt5, SQL, Backend Server
 
+1. First open server folder
+2. Open main.py to open server
+3. Then open front-end folder, open main.py to open GUI interface
+4. Now, you can operate the add, delete, modify, show all student message info
 
-
+This project only provide basic function for add, delete, modify, show all
+if you want to modify my project to do anything is welcome or any comment is acceptable
+I will modify it ASAP
 
 ![brian 2022-05-25 上午2 26 30](https://user-images.githubusercontent.com/86283442/170106381-b8cd25e5-72d1-4e67-9ed0-608cb2058f78.png)
 
